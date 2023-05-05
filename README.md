@@ -25,4 +25,4 @@ To compile the program, run the following command in your terminal:
 ```
 
 ## Acknowledgements
-This project was created as part of COP 3503 at the University of Florida. Special thanks to the course instructors for providing guidance and support.
+This project was created as part of a programming course. Special thanks to the course instructors for providing guidance and support.
